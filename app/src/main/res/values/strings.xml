@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QQ通知过滤</string>
+    <string name="module_description">过滤QQ私聊和群聊消息通知</string>
+</resources>
